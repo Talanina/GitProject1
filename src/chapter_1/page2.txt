@@ -1,1 +1,4 @@
-I love to study but more I like to understand what I am learning.
+I love to study but
+more I like to understand what I am learning.
+
+I edit page 2 after I commit it.
